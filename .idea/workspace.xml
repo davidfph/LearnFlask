@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec10203e-27ed-4563-b1e1-08e6b8642ccd" name="Default Changelist" comment="" />
+    <list default="true" id="ec10203e-27ed-4563-b1e1-08e6b8642ccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/microblog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,9 +46,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="927" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1584190534159">
+    <state x="446" y="1641" key="SettingsEditor" timestamp="1584193222489">
+      <screen x="0" y="1440" width="1854" height="1080" />
+    </state>
+    <state x="446" y="1641" key="SettingsEditor/0.1440.1854.1080/0.0.2494.1440@0.1440.1854.1080" timestamp="1584193222489" />
+    <state x="689" y="1848" key="com.intellij.ide.util.TipDialog" timestamp="1584252530028">
+      <screen x="0" y="1440" width="1854" height="1080" />
+    </state>
+    <state x="689" y="1848" key="com.intellij.ide.util.TipDialog/0.1440.1854.1080/0.0.2494.1440@0.0.2494.1440" timestamp="1584252530028" />
+    <state x="1525" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584257161198">
       <screen x="0" y="0" width="2494" height="1440" />
     </state>
-    <state x="927" y="544" key="com.intellij.ide.util.TipDialog/0.1440.1854.1080/0.0.2494.1440@0.0.2494.1440" timestamp="1584190534159" />
+    <state x="1525" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.1440.1854.1080/0.0.2494.1440@0.0.2494.1440" timestamp="1584257161198" />
   </component>
 </project>
