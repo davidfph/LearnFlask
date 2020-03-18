@@ -1,0 +1,1 @@
+Flask-Migrate windows系统安装出问题，尝试安装在deepin系统，正常
